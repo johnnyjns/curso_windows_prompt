@@ -1,0 +1,17 @@
+Comandos aprendidos no Capitulo-01: 
+
+Comando cd(change directory) para mudar de pastas 
+Comando dir para listar o conteudo do diretorio 
+Comando mkdir para criar diretorios 
+Comando rmdir para remover diretorios 
+Comando cls(clear screnn) para limpar a tela do terminal 
+Comando echo para "printar na tela" os textos digitados 
+Comando type para ver o conteudo de arquivos no terminal 
+Comando del(delete) para deletar arquivos 
+Comando ren(rename) para renomear arquivos e diretorios 
+Comando mv(move) para movimentar arquivos entre os diretorios 
+Comando help + "comando" para obter ajuda dos comandos 
+Comando dir possui parametros, para ordenar por tamanho digite dir /O:S 
+Comando dir possui parametros, para ordenar por data digite dir /O:D 
+Comando dir possui parametros, para ordenar por data e mostrar o conteudo do diretorio digite dir /O:D C:\ 
+Comando tree para ver a arvore de diretorios de onde voce estaComando more funciona como o tree mais mostra pagina a pagina 
